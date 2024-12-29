@@ -1,0 +1,7 @@
+2024-01-15 14:30:25 [ERROR] Database connection failed: timeout
+2024-01-15 14:30:28 [WARNING] High memory usage: 85%
+2024-01-15 14:30:30 [ERROR] Connection timeout to server A
+2024-01-15 14:30:35 [INFO] Server started
+2024-01-15 14:30:40 [ERROR] Database connection failed: network issue
+invalid line
+2024-01-16 10:00:00 [ERROR] Another timeout error
